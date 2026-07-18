@@ -31,7 +31,7 @@ Dibangun untuk Misi 13 — Native Power App (Mata Kuliah Mobile Programming).
 
 | Hasil Check-In (Foto + Lokasi) | Dialog Izin | Penanganan Penolakan Izin |
 |---|---|---|
-| ![Hasil Check-In](screenshots/hasil-checkin.jpg) | ![Dialog Izin](screenshots/dialog-izin.jpg) | ![Penolakan Izin](screenshots/penolakan-izin.jpg) |
+| ![profile-card/assets/hasil-checkin.jpg]| ![profile-card/assets/dialog-izin.jpg] | ![profile-card/assets/penolakan-izin.jpg]|
 
 ## 🛠️ Tech Stack
 
